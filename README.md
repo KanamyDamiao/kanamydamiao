@@ -1,16 +1,13 @@
-### Hi there 👋
+### puts "Hello World!" 
 
-<!--
-**KanamyDamiao/kanamydamiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" alt="spider-man" height="200" width="500" src="https://pa1.narvii.com/6852/fd3671f475d21c3f20666d302594ddf8c5e05a97_hq.gif"
+   style="max-width:100%;">
 
-Here are some ideas to get you started:
+ 
+# Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanamyDamiao&show_icons=true&theme=midnight-purple)
+
+   
+
+
