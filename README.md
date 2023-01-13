@@ -1,8 +1,20 @@
 ## HI, I'm Kanamy Stewart
+
+:books: I'm a student of systems analysis and development
+
+:coffee: I'm loving coffee
+
+:rocket: I'm loving travel by motorcicle
+
+:heart: I'm loving my family
+
+I like to study back-end systems, good programming practices, I like to study more basic front-end things, such as CSS, HTML and JavaScript, I know a little about react
+
+
 <div align="center">
   <a href="https://github.com/kanamydamiao">
   <img height="180em" src="https://github-readme-stats-kanamydamiao.vercel.app/api?username=kanamydamiao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats-kanamydamiao.vercel.app/api/top-langs/?username=kanamydamiao&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-kanamydamiao.vercel.app/api/top-langs/?username=kanamydamiao&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
    ##
