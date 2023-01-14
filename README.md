@@ -8,8 +8,6 @@
 
 :heart: I'm loving my family
 
-I like to study back-end systems, good programming practices, I like to study more basic front-end things, such as CSS, HTML and JavaScript, I know a little about react
-
 
 <div align="center">
   <a href="https://github.com/kanamydamiao">
