@@ -9,11 +9,11 @@
 :heart: I'm loving my family
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/kanamydamiao">
   <img height="180em" src="https://github-readme-stats-kanamydamiao.vercel.app/api?username=kanamydamiao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-kanamydamiao.vercel.app/api/top-langs/?username=kanamydamiao&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
    
    ##
    
