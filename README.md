@@ -1,19 +1,6 @@
 ## HI, I'm Kanamy Stewart
 
-:books: I'm a student of systems analysis and development
-
-:coffee: I'm loving coffee
-
-:rocket: I'm loving travel by motorcicle
-
-:heart: I'm loving my family
-
-
-<!-- <div align="center">
-  <a href="https://github.com/kanamydamiao">
-  <img height="180em" src="https://github-readme-stats-kanamydamiao.vercel.app/api?username=kanamydamiao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-kanamydamiao.vercel.app/api/top-langs/?username=kanamydamiao&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
+:books: I have a degree in Systems Analysis and Development and I am currently a back-end programmer focused on the ruby on rails framework and a react enthusiast.
    
    ##
    
